@@ -1,0 +1,39 @@
+date,home_team,away_team,xG_home,xG_away,goals_for,goals_against,result,stadium
+2022-08-13 19:00:00,Barcelona,Rayo Vallecano,1.37129,0.77153,0,0,d,Camp Nou
+2022-08-28 17:30:00,Barcelona,Real Valladolid,3.28674,0.720063,4,0,w,Camp Nou
+2022-09-17 14:15:00,Barcelona,Elche,5.17903,0.0129931,3,0,w,Camp Nou
+2022-10-09 19:00:00,Barcelona,Celta Vigo,1.98459,1.35022,1,0,w,Camp Nou
+2022-10-20 19:00:00,Barcelona,Villarreal,3.61604,0.503294,3,0,w,Camp Nou
+2022-10-23 19:00:00,Barcelona,Athletic Club,2.13539,0.240803,4,0,w,Camp Nou
+2022-11-05 20:00:00,Barcelona,Almeria,4.33587,0.538049,2,0,w,Camp Nou
+2022-12-31 13:00:00,Barcelona,Espanyol,2.74555,0.846842,1,1,d,Camp Nou
+2023-01-22 17:30:00,Barcelona,Getafe,0.712066,1.2457,1,0,w,Camp Nou
+2023-02-05 20:00:00,Barcelona,Sevilla,3.09763,0.0413799,3,0,w,Camp Nou
+2023-02-19 20:00:00,Barcelona,Cadiz,2.28935,1.404,2,0,w,Camp Nou
+2023-03-05 15:15:00,Barcelona,Valencia,2.09199,0.629336,1,0,w,Camp Nou
+2023-03-19 20:00:00,Barcelona,Real Madrid,1.66532,0.524212,2,1,w,Camp Nou
+2023-04-10 19:00:00,Barcelona,Girona,1.05077,0.491057,0,0,d,Camp Nou
+2023-04-23 14:15:00,Barcelona,Atletico Madrid,2.12803,0.714419,1,0,w,Camp Nou
+2023-04-29 19:00:00,Barcelona,Real Betis,3.0864,0.231066,4,0,w,Camp Nou
+2023-05-02 17:30:00,Barcelona,Osasuna,2.40046,0.355588,1,0,w,Camp Nou
+2023-05-20 19:00:00,Barcelona,Real Sociedad,1.8413,2.8035,1,2,l,Camp Nou
+2023-05-28 17:00:00,Barcelona,Mallorca,4.40817,0.124265,3,0,w,Camp Nou
+2023-08-20 17:30:00,Barcelona,Cadiz,3.42524,1.11132,2,0,w,Montjuic
+2023-09-16 19:00:00,Barcelona,Real Betis,2.54628,0.852869,5,0,w,Montjuic
+2023-09-23 16:30:00,Barcelona,Celta Vigo,1.82246,1.67938,3,2,w,Montjuic
+2023-09-29 19:00:00,Barcelona,Sevilla,2.5598,1.07557,1,0,w,Montjuic
+2023-10-22 19:00:00,Barcelona,Athletic Club,1.70266,0.453295,1,0,w,Montjuic
+2023-10-28 14:15:00,Barcelona,Real Madrid,1.32038,0.959404,1,2,l,Montjuic
+2023-11-12 15:15:00,Barcelona,Alaves,1.81139,1.83858,2,1,w,Montjuic
+2023-12-03 20:00:00,Barcelona,Atletico Madrid,3.18789,0.996297,1,0,w,Montjuic
+2023-12-10 20:00:00,Barcelona,Girona,4.25448,2.93797,2,4,l,Montjuic
+2023-12-20 18:00:00,Barcelona,Almeria,4.04903,1.39703,3,2,w,Montjuic
+2024-01-27 17:30:00,Barcelona,Villarreal,2.02779,2.36875,3,5,l,Montjuic
+2024-01-31 18:00:00,Barcelona,Osasuna,2.21737,1.41966,1,0,w,Montjuic
+2024-02-11 20:00:00,Barcelona,Granada,2.5229,1.20453,3,3,d,Montjuic
+2024-02-24 15:15:00,Barcelona,Getafe,2.65095,0.316762,4,0,w,Montjuic
+2024-03-08 20:00:00,Barcelona,Mallorca,2.06225,0.504754,1,0,w,Montjuic
+2024-03-30 20:00:00,Barcelona,Las Palmas,1.72947,0.314295,1,0,w,Montjuic
+2024-04-29 19:00:00,Barcelona,Valencia,2.59636,1.49346,4,2,w,Montjuic
+2024-05-13 19:00:00,Barcelona,Real Sociedad,1.66029,0.799193,2,0,w,Montjuic
+2024-05-19 17:00:00,Barcelona,Rayo Vallecano,1.69959,1.68527,3,0,w,Montjuic
