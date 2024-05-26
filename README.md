@@ -23,21 +23,22 @@ To analyze the impact, I scraped Barcelona’s result data for the 2022/2023 and
 
 - **Goal Scoring**: Barcelona scored slightly more goals on average at Montjuïc than at Camp Nou, despite a higher average xG at Camp Nou.
   
-  ![Average Goals by Stadium](path/to/average_goals_by_stadium.png)
+  ![Average Goals by Stadium](https://github.com/Abdul-AA/Barcelona-Stadium-Impact-Hypothesis-Testing/blob/eef1798752cb3bbf5ce154c92fc30047324819b3/Plots/G.png)
   
-  ![Average xG by Stadium](path/to/average_xg_by_stadium.png)
+  ![Average xG by Stadium](https://github.com/Abdul-AA/Barcelona-Stadium-Impact-Hypothesis-Testing/blob/eef1798752cb3bbf5ce154c92fc30047324819b3/Plots/xG.png)
 
 - **Goals Conceded**: Barcelona conceded substantially fewer goals at Camp Nou than at Montjuïc.
 
-  ![Average Goals Conceded by Stadium](path/to/average_goals_conceded_by_stadium.png)
+  ![Average Goals Conceded by Stadium](https://github.com/Abdul-AA/Barcelona-Stadium-Impact-Hypothesis-Testing/blob/eef1798752cb3bbf5ce154c92fc30047324819b3/Plots/GC.png)
 
 - **Match Outcomes**: Barcelona won 15 home games in both stadiums. However, at Montjuïc, they lost three and drew one, while at Camp Nou, they lost only one and drew three.
 
-  ![Result Distribution by Stadium](path/to/result_distribution_by_stadium.png)
+  ![Result Distribution by Stadium](https://github.com/Abdul-AA/Barcelona-Stadium-Impact-Hypothesis-Testing/blob/eef1798752cb3bbf5ce154c92fc30047324819b3/Plots/Dis.png)
 
 - **xG vs. Actual Goals Over Time**: At Camp Nou, actual goals often fell short of xG, indicating some inefficiency. At Montjuïc, actual goals sometimes exceeded xG, particularly in September and October 2023.
 
-  ![Temporal Analysis](path/to/temporal_analysis.png)
+  ![Temporal Analysis](https://github.com/Abdul-AA/Barcelona-Stadium-Impact-Hypothesis-Testing/blob/eef1798752cb3bbf5ce154c92fc30047324819b3/Plots/Temp.png)
+  ![Temporal Analysis](https://github.com/Abdul-AA/Barcelona-Stadium-Impact-Hypothesis-Testing/blob/eef1798752cb3bbf5ce154c92fc30047324819b3/Plots/Temp2.png)
 
 - **Consistency Over Time**: Barcelona maintained a more consistent xG at Camp Nou, while Montjuïc showed more abrupt changes, especially in late 2023 and early 2024.
 
