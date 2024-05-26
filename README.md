@@ -1,5 +1,4 @@
-# Barcelona Stadium Impact Hypothesis Testing
-
+# From Camp Nou to Montjuïc: A Hypothesis Testing Analysis of FC Barcelona's Season
 ## Context
 
 As a passionate FC Barcelona fan, this season has been particularly challenging, despite winning the league last year. Reflecting on what went wrong, I noticed Barcelona played home games at Montjuïc instead of Camp Nou, due to renovations.
