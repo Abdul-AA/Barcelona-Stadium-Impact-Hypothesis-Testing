@@ -75,4 +75,4 @@ To assess if observed differences were due to the stadium change or random chanc
 
 This analysis suggests that Barcelona's defense was notably affected by the stadium change, conceding more goals at Montjuïc. Other performance aspects remained consistent with the previous season. The temporary relocation had a tangible impact on our defensive solidity.
 
-As we prepare to return to the iconic Spotify Camp Nou, other teams should brace for a supercharged Barcelona!
+As we prepare to return to the iconic Spotify Camp Nou, other teams should brace for a supercharged Barcelona! :)
